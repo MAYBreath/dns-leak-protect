@@ -1,4 +1,4 @@
-// Clash Verge 动态规则智能注入脚本
+// 动态规则智能注入脚本
 function main(config) {
   // 1. 智能寻找最合适的主代理策略组
   let targetGroup = "GLOBAL";
